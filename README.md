@@ -1,11 +1,10 @@
 # About Me
 
-👋 Hi, I’m Jones Jin.
-I am a full stack web developer.
-I have 8+ years of experience in React, TypeScript, Nodejs and also have 6+ years of experience in Laravel, ASP.NET, Django, MySQL, Redis. 
-I am effective in strong communication skills while staying organized and remaining creatively active with projects.
-My main business is focused on the US, AU, and European clients so you will be with me for many hours in the daytime.
-I will always be with you. Sincerely,
+👋 Hi, I’m Jones Jin. I am a full stack web developer.<br/>
+I have 8+ years of experience in React, TypeScript, Nodejs and also have 6+ years of experience in Laravel, ASP.NET, Django, MySQL, Redis. <br/>
+I am effective in strong communication skills while staying organized and remaining creatively active with projects.<br/>
+My main business is focused on the US, AU, and European clients so you will be with me for many hours in the daytime.<br/>
+I will always be with you. Sincerely.<br/>
 
 # Skills
 * Language
