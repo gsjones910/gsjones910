@@ -1,4 +1,4 @@
-## About Me
+<h2>About Me</h2>
 
 👋 Hi, I’m Jones Jin.
 I am a full stack web developer.
@@ -7,8 +7,8 @@ I am effective in strong communication skills while staying organized and remain
 My main business is focused on the US, AU, and European clients so you will be with me for many hours in the daytime.
 I will always be with you. Sincerely,
 
-## Skills
-### Web
+<h2>Skills</h2>
+<h3>Web</h3>
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -26,7 +26,7 @@ I will always be with you. Sincerely,
 <img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 <img align="left" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" />
 
-### Mobile
+<h3>Mobile</h3>
 <img align="left" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="swift" />
 <img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
 <img align="left" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="xamarin" />
@@ -60,9 +60,9 @@ https://marketplace.thetanarena.com/<br/>
 https://www.upland.me<br/>
 
 ## Contact me
-<a href="gsjones0910@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://t.me/jonesjin910" target="_blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
-<a href="https://www.linkedin.com/in/jones-jin-0874621a9" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="gsjones0910@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://t.me/jonesjin910" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://www.linkedin.com/in/jones-jin-0874621a9" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
 
 <!---
