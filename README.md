@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 👋 Hi, I’m Jones Jin. I am a full stack web developer.<br/>
 I have `8+` years of experience in **React, TypeScript, Nodejs** and also have `6+` years of experience in **Laravel, ASP.NET, Django, MySQL, Redis**. <br/>
@@ -6,7 +6,7 @@ I am effective in strong communication skills while staying organized and remain
 My main business is focused on the US, AU, and European clients so you will be with me for many hours in the daytime.<br/>
 I will always be with you. Sincerely.<br/>
 
-# Skills
+## Skills
 | Classification | Detail |
 | :---: | :---: |
 | `Language` | <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /><img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /><img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" /><img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> |
@@ -17,7 +17,7 @@ I will always be with you. Sincerely.<br/>
 | `Cloud` | <img align="left" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /><img align="left" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp" /><img align="left" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" /><img align="left" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" /> |
 | `Others` | <img align="left" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" /><img align="left" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" /><img align="left" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" /> |
 
-# Previous work
+## Previous work
 https://sombra.app<br/>
 https://zomtanft.com<br/>
 https://kishimoto.io/<br/>
@@ -25,7 +25,7 @@ https://rarible.com<br/>
 https://marketplace.thetanarena.com/<br/>
 https://www.upland.me<br/>
 
-# Contact me
+## Contact me
 <a href="https://www.linkedin.com/in/jones-jin-0874621a9" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="gsjones0910@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://t.me/jonesjin910" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
